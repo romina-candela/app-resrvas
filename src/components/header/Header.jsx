@@ -79,7 +79,7 @@ const [openDate, setOpenDate] = useState(false);
 
         { type !== "list" &&
         <>
-        <h1 className="h1headerTitle"> Encontrá y administrá tus próximas reservas en un solo lugar!!</h1>
+        <h1 className="h1headerTitle"> Encontrá y administrá tus próximas reservas en un solo lugar!!!!</h1>
         <p className="headerDesc"> Lorem Ipsum is simply dummy text of the printing and typesetting industry.
         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
         <button className='headerBtn'>Registrase Ahora!</button>
